@@ -1,0 +1,10 @@
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\bin\Debug\Actividad2Alum.exe.config
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\bin\Debug\Actividad2Alum.exe
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\bin\Debug\Actividad2Alum.pdb
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\obj\Debug\Actividad2Alum.csproj.AssemblyReference.cache
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\obj\Debug\Actividad2Alum.Form1.resources
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\obj\Debug\Actividad2Alum.Properties.Resources.resources
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\obj\Debug\Actividad2Alum.csproj.GenerateResource.cache
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\obj\Debug\Actividad2Alum.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\obj\Debug\Actividad2Alum.exe
+C:\Users\Raquel Maya\source\repos\Actividad2Alum\Actividad2Alum\obj\Debug\Actividad2Alum.pdb
